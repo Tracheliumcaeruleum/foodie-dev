@@ -2,43 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6bed9958-12a0-4be7-8989-ba55c46d6b5d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-api/foodie-dev-api.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-api/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-api/target/foodie-dev-api-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-api/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-common/foodie-dev-common.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-common/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-common/target/foodie-dev-common-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-common/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-mapper/foodie-dev-mapper.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-mapper/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-mapper/target/foodie-dev-mapper-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-mapper/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-mapper/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-mapper/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-pojo/foodie-dev-pojo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-pojo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-pojo/target/foodie-dev-pojo-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-pojo/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-pojo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-service/foodie-dev-service.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-service/target/foodie-dev-service-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-service/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foodie-dev.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +13,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\Users\jieruan\foodie-dev\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1cYtgrBvrW4FJbv04MiXsyFWAqI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -58,6 +29,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -93,22 +65,42 @@
       <updated>1590717468465</updated>
       <workItem from="1590717470228" duration="3667000" />
       <workItem from="1590729360310" duration="611000" />
-      <workItem from="1591229440602" duration="852000" />
+      <workItem from="1591229440602" duration="1093000" />
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1591230695118</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591230695118</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590730904740">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590730904740" />
+    <state x="860" y="164" key="CommitChangelistDialog2" timestamp="1591230693942">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="860" y="164" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1591230693942" />
     <state x="247" y="523" key="FileChooserDialogImpl" timestamp="1591230631367">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="247" y="523" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591230631367" />
+    <state x="1261" y="647" width="273" height="218" key="Github.ShareDialog" timestamp="1591230870073">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1261" y="647" width="273" height="218" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591230870073" />
     <state width="1877" height="2" key="GridCell.Tab.0.bottom" timestamp="1590721249272">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -129,6 +121,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="712" y="287" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1591230610197" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1591230885346">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1591230885346" />
     <state x="334" y="215" key="new project wizard" timestamp="1590720723243">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
