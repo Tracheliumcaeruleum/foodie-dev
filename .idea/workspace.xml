@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6bed9958-12a0-4be7-8989-ba55c46d6b5d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodie-dev-api/foodie-dev-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-api/foodie-dev-api.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodie-dev-common/foodie-dev-common.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodie-dev-mapper/foodie-dev-mapper.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodie-dev-pojo/foodie-dev-pojo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodie-dev-service/foodie-dev-service.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodie-dev.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +47,9 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="ServiceViewManager">
@@ -65,7 +76,12 @@
       <updated>1590717468465</updated>
       <workItem from="1590717470228" duration="3667000" />
       <workItem from="1590729360310" duration="611000" />
-      <workItem from="1591229440602" duration="1093000" />
+      <workItem from="1591229440602" duration="2169000" />
+      <workItem from="1591237967893" duration="2265000" />
+      <workItem from="1591845679249" duration="48000" />
+      <workItem from="1592445327593" duration="16000" />
+      <workItem from="1592445365996" duration="1726000" />
+      <workItem from="1592451334716" duration="1254000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1591230695118</created>
@@ -74,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591230695118</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit">
+      <created>1591230935632</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591230935632</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,14 +108,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="552" y="179" key="#Project_Structure" timestamp="1591845692426">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1591845692426" />
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590730904740">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590730904740" />
-    <state x="860" y="164" key="CommitChangelistDialog2" timestamp="1591230693942">
+    <state x="860" y="164" key="CommitChangelistDialog2" timestamp="1591230934918">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="860" y="164" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1591230693942" />
+    <state x="860" y="164" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1591230934918" />
     <state x="247" y="523" key="FileChooserDialogImpl" timestamp="1591230631367">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -121,10 +148,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="712" y="287" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1591230610197" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1591230885346">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1591230941040">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1591230885346" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1591230941040" />
     <state x="334" y="215" key="new project wizard" timestamp="1590720723243">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
